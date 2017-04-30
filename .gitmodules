@@ -1,0 +1,6 @@
+[submodule "features-client"]
+	path = features-client
+	url = git@github.com:Salomari1987/features-client.git
+[submodule "features-api"]
+	path = features-api
+	url = git@github.com:Salomari1987/features-api.git
